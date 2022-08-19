@@ -1,4 +1,7 @@
 # Alura-Terraform-AWS
+
+# https://www.alura.com.br/curso-online-terraform
+
 - Projeto do curso de introdução ao terraform da Alura na plataforma AWS. O projeto se consistiu na criação e 7 VM's, duas em regiões diferentes, um bucket ligado a uma das VM's, e um dynamoDB também ligado a uma das VM's.
 - **IAAC** - Qualquer aplicação depende de uma infraestrutura como computador, sistema operacional, rede, espaço no HD e muito mais. A **Infraestrutura como Código**
  permite descrever essas características em um **arquivo de texto**
